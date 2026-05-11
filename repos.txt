@@ -5,3 +5,4 @@
 ajavadinezhad/zyrln
 therealaleph/MasterHttpRelayVPN-RUST
 2dust/v2rayNG
+2dust/v2rayN
