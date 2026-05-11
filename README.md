@@ -169,42 +169,6 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="2dust--v2rayng"></div>
-
-### 2dust--v2rayNG
-
-🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.7</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.7)
-
-| File | Size | Download |
-|------|------|----------|
-| `v2rayNG_2.1.7-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.1.7-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_armeabi-v7a.apk) |
-| `v2rayNG_2.1.7-fdroid_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_universal.apk) |
-| `v2rayNG_2.1.7-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_x86.apk) |
-| `v2rayNG_2.1.7-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7-fdroid_x86_64.apk) |
-| `v2rayNG_2.1.7_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_arm64-v8a.apk) |
-| `v2rayNG_2.1.7_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_armeabi-v7a.apk) |
-| `v2rayNG_2.1.7_universal.apk` | 61.8 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_universal.apk) |
-| `v2rayNG_2.1.7_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_x86.apk) |
-| `v2rayNG_2.1.7_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.7_x86_64.apk) |
-
----
-
-<div id="ajavadinezhad--zyrln"></div>
-
-### ajavadinezhad--zyrln
-
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `zyrln-1.4.0.apk` | 22.9 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.4.0.apk) |
-| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
-| `zyrln-relay` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-relay) |
-| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/SepehrSky/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
-
----
-
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
