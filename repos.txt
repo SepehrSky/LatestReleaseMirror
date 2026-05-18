@@ -4,3 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 therealaleph/MasterHttpRelayVPN-RUST
 IRNova/Nova-Proxy-App
+B3hnamR/PsiphonOverMITM
