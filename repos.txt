@@ -5,3 +5,4 @@
 therealaleph/MasterHttpRelayVPN-RUST
 IRNova/Nova-Proxy-App
 B3hnamR/PsiphonOverMITM
+Psiphon-Inc/psiphon-windows
